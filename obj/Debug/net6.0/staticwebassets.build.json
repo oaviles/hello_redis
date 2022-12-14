@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X3YE1l23/gHJ3uzK6JBtz4fof79b49AcJp8u/QGAV10=",
+  "Source": "redisapp",
+  "BasePath": "_content/redisapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
