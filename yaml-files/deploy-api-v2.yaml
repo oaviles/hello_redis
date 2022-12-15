@@ -21,7 +21,7 @@ spec:
         app: redisapi
     spec:
       containers:
-      - image: acraksworkshop.azurecr.io/redisapi:7069
+      - image: ghcr.io/oaviles/redisapi:7069
         name: redisapi
         env:
         - name: REDIS_CS
