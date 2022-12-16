@@ -2,7 +2,7 @@ on: [workflow_dispatch]
 
 name: 2 Deploy API
 jobs:
-  build:
+  deploying-api:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
