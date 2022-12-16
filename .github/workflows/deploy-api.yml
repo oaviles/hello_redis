@@ -19,3 +19,4 @@ jobs:
         namespace: 'redis'
         manifests: |
           yaml-files/deploy-api-v0.yaml
+          yaml-files/hpa.yaml
