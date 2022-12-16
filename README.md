@@ -2,9 +2,9 @@
 
 This is a collection of sample projects for Cloud Application Developer using Azure Cloud Platform. The sample projects are arranged in different topics about microservice development and deployment on Azure Kubernetes Service supported by Secure DevOps Practices.
 
-Deploy API on Azure Kubernetes Service, data cache reference architecture:
-[https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/data-cache-with-redis-cache)
-![](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/media/data-cache-with-redis-cache.png)
+Deploy API on Azure Kubernetes Service, data cache [reference architecture](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/data-cache-with-redis-cache):
+
+[<img src="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/media/data-cache-with-redis-cache.png" width="600"/>](data-cache-with-redis-cache.png)
 
 #### Other Resources
 - [Microservices with .NET](https://dotnet.microsoft.com/en-us/apps/aspnet/microservices)
