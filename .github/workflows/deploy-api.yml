@@ -18,4 +18,4 @@ jobs:
       with:
         namespace: 'redis'
         manifests: |
-          yaml_files/deploy-api-v0.yaml
+          yaml-files/deploy-api-v0.yaml
